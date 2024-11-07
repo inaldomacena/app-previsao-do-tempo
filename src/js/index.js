@@ -1,5 +1,5 @@
 
-// coloque aqui a sua chave de api
+
 const chaveDaApi = "cd31863ae267407cb01212131232011";
 
 const botaoDeBusca = document.querySelector(".btn-busca");
